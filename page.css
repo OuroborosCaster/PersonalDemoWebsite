@@ -1,0 +1,49 @@
+﻿body {
+    background-image: url('img/StarrySky.jpg');
+    background-attachment:fixed;
+    background-size:cover;
+}
+h2 {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+h1 {
+    font-family:'Comic Sans MS';
+    font-weight: 900;
+    color: whitesmoke;
+    text-align:center;
+    margin-top:50px;
+}
+h4 {    
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align:center;
+    margin-top:50px;
+}
+#lblWechat {
+    margin-left:150px;
+}
+#lblAli {
+    margin-right:150px;
+}
+h5 {
+    font-family: 'Comic Sans MS';
+    font-weight: normal;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 50px;
+}
+.info {
+    color: whitesmoke;
+    font-family: 'Comic Sans MS';
+    font-weight: 400;
+    font-size: 15pt;
+    text-align:center;
+    
+}
+#tInfo {
+    margin-top: 500px;
+    position: center;
+    table-layout: fixed;
+    text-align: center; 
+}
